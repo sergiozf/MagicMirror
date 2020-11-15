@@ -17,11 +17,11 @@
         "You are making a difference.",
         "The day was better for your efforts."
     ],
-    rain: [
+    "rain": [
         "No olvides el paraguas",
         "Que no te mojes mucho"
     ],
-    day_sunny: [
+    "day_sunny": [
         "Hoy es un día soleado"
     ],
     "....-01-01": [
