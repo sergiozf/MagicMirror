@@ -1,0 +1,2 @@
+# MagicMirror
+Contenido para MagicMirror
